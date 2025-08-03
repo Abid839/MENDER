@@ -1,6 +1,6 @@
 # MENDER
 
-This repository contains the dataset and code for our paper titled **MENDER: Multi-hop Commonsense and Domain-specific CoT Reasoning for Knowledge-grounded Empathetic Counseling of Crime Victims**
+This repository contains the dataset and code for our paper titled **[MENDER: Multi-hop Commonsense and Domain-specific CoT Reasoning for Knowledge-grounded Empathetic Counseling of Crime Victims](https://aclanthology.org/2025.naacl-srw.49/)**
 
 ## Code
 
